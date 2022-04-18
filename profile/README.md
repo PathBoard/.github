@@ -5,3 +5,6 @@
 <p align="center">
   <b>PathBoard</b>
 </p>
+<p align="center">
+  ⦿
+</p>
